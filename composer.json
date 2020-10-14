@@ -1,23 +1,23 @@
 {
-    "name": "laravel-enso/io",
+    "name": "genealogiawebsite/io",
     "description": "IO process monitoring dependency for Laravel-Enso",
     "keywords": [
         "laravel",
-        "laravel-enso",
+        "genealogiawebsite",
         "io"
     ],
-    "homepage": "https://github.com/laravel-enso/io",
+    "homepage": "https://github.com/genealogiawebsite/io",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/enums": "^2.0"
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/enums": "^2.0"
     },
     "autoload": {
         "psr-4": {
